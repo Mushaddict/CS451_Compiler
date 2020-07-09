@@ -1,0 +1,45 @@
+1. Enter the number of hours it took you to complete the project between
+   the <<< and >>> signs below (eg, <<<10>>>).
+
+   <<< 8 >>>
+   
+2. Enter the difficulty level (1: very easy; 5: very difficult) of the project
+   between <<< and >>> signs below (eg, <<<3>>>).
+
+   << 2.5 >>>
+
+3. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Multiline Comment): This problem is pretty straight forward, you just have to 
+identify the concept of /* */. However, I did have stuck on this problem because I was having
+a little trouble because I had a mistake on '*', which makes my problem. But it's just fine.  
+
+   Problem 2 (Reserved Words): This one is simple, You just need to put all the reserved words
+into the TokenInfo and Scanner. That's it. 
+
+   Problem 3 (Operators): Simple as well. Just put all these operaters in Scanner and 
+TokenInfo, not a hard one. 
+   
+   Problem 4 (Separators): Same thing as problem 3, not hard. 
+
+   Problem 5 (Literals): This one is the hardest one becasue you have to identify the different
+condition happens in a string buffer, which costs me most of my time figure out the problem I 
+have, as for how to read a decimal number with not digits before the '.'. This spends me most of my time. But finally, it's just repeating the same structure of the previous 
+steps 
+
+4. Did you receive help from anyone? List their names, status (classmate, 
+   CS451/651 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+5. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   The project 2 is not a really hard, except for the last quesiton really needs a good 
+structure to build for it. I have a drawn a dfa in order to do question 5, but still 
+spent much of time to fix my bug. It's annoying. 

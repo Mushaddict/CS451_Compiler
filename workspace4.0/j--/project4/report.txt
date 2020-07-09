@@ -1,0 +1,96 @@
+1. Enter the number of hours it took you to complete the project between
+   the <<< and >>> signs below (eg, <<<10>>>).
+
+   << 20-30 >>>
+   
+2. Enter the difficulty level (1: very easy; 5: very difficult) of the project
+   between the <<< and >>> signs below (eg, <<<3>>>).
+
+   <<< 3.5 >>>
+
+3. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Part I (Additions to JavaCC Scanner)
+
+   Problem 1 (Multiline Comment): This one is hard, I have to check the regular 
+expression for figuring this out. Basically I have spent two more hous to 
+complete this question because one single "star" can even cause a lot of 
+troubles. 
+
+   Problem 2 (Reserved Words): This one is simple, it is just to add the words 
+we have into the token part of reserved words, so not spending much time. 
+
+   Problem 3 (Operators): This one is simple as well, just follow the 
+tokentype.java where we have written before then it's done. 
+   
+   Problem 4 (Separators): just add another COLON, not even spend more than a 
+minute. 
+
+   Problem 5 (Literals): This one is like the problem which we have done 
+before for literals. It happens to have some bug when I try to implement 
+<DIGITS>, but it's done after a few while when I realized where I got 
+wrong, not very hard.
+
+   Part II (Additions to JavaCC Parser)
+   
+   Problem 6 (Long and Double Basic Types): This one happens to be the easy 
+part while I still got no points in the first time because I wasn't submit all
+the files at the same time. But not to be very hard. 
+
+   Problem 7 (Operators): This one is like what we have done on project 3 ques
+2 to edit all the Operators following by the appendix, I just follow the parser
+where I have created on project3 to do the work. Some of the details did annoys
+me but finally I have figured it out. 
+   
+   Problem 8 (Conditional Expression): This one is inside levels of different 
+layer so just edit it during the question 2 part. 
+
+   Problem 9 (Switch Statement): This one is very hard. I wasn't able to make 
+it on project3, I'm spending a lot of time here in this project. I have asked
+people about their logics and how to understand the implementations inside 
+another implementation, and how blocks is inserted in blockGroups. It's really
+messed up, but finally got there. 
+
+   Problem 10 (Do-While Statement): This one, I just followed the appendix and 
+the parser on project3, it's not very hard. 
+
+   Problem 11 (For Statement): This has cost me a lot of time because I 
+was figuring out how to do the forInit part. Ideally, I was thinking it is the 
+same way as I was doing on parser on project 3. However, I realized I should 
+have write another private method to implement the {, statementExpression}. 
+At last I figured out, but it still showed me there's a bug. I tried to find
+it out but turns out I realied because I have add an additional parens beside 
+the main method, this has cost me almost two hours....
+
+   Problem 12 (Break Statement): This one is simply to follow on the appendix
+and it's not very hard. 
+
+   Problem 13 (Continue Statement): The same as Break, not hard. 
+
+   Problem 14 (Exception Handlers): Only make throw, doesn't do the others. 
+
+   Problem 15 (Interface Type Declaration): doesn't do the others. 
+
+4. Did you receive help from anyone? List their names, status (classmate, 
+   CS451/651 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Wei yu              graduate    understand the logic of how switch works 
+                                    and the appendix
+
+5. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+    I thought the homework should been easy in the first time, but when I 
+submit the files I realized that is not very easy because the first 5 problems
+doesn't counted in grade. That means we have to spend extra times on these 
+so it just took me some time to do these things. Especially the multicomment
+one is not easy, I skipped it after I have finished the others questions in 
+part I. The Part II was like project3, which is using the same logic to finxed
+the j--.jj, but I would have still stuck on how to build a private method 
+with the proper syntax. But finally doesn't have enought time to figure them
+all out. 

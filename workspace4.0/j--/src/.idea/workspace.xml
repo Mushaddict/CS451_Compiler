@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fea47520-5972-44c0-b533-fd6640601d26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZMZPiM0OBfUGJG6KggMYEb6FsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/gai_9/j--/src/jminusminus" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fea47520-5972-44c0-b533-fd6640601d26" name="Default Changelist" comment="" />
+      <created>1584650900637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584650900637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="183" width="290" height="219" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584650951520">
+      <screen x="0" y="30" width="800" height="570" />
+    </state>
+    <state x="235" y="183" width="290" height="219" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.30.800.570@0.30.800.570" timestamp="1584650951520" />
+    <state x="168" y="49" width="424" height="487" key="FileChooserDialogImpl" timestamp="1586040155411">
+      <screen x="0" y="30" width="800" height="570" />
+    </state>
+    <state x="168" y="49" width="424" height="487" key="FileChooserDialogImpl/0.30.800.570@0.30.800.570" timestamp="1586040155411" />
+    <state x="48" y="29" width="672" height="678" key="search.everywhere.popup" timestamp="1585880168350">
+      <screen x="0" y="30" width="800" height="570" />
+    </state>
+    <state x="48" y="29" width="672" height="678" key="search.everywhere.popup/0.30.800.570@0.30.800.570" timestamp="1585880168350" />
+  </component>
+</project>

@@ -1,0 +1,69 @@
+1. Enter the number of hours it took you to complete the project between
+   the <<< and >>> signs below (eg, <<<10>>>).
+
+   <<< 30+ >>>
+   
+2. Enter the difficulty level (1: very easy; 5: very difficult) of the project
+   between the <<< and >>> signs below (eg, <<<3>>>).
+
+   <<< 5 >>>
+
+3. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Long and Double Basic Types): This one really causes a tough 
+start, because in the first I thought as well as I finished the codegen and 
+analyze in JLiteralLong and JLiteralDouble, then everything is good. However, 
+I got compilation error in the after place. So I started to figure out how 
+to debug. Then I realized I need to edit JVariable, JVariableDeclaraion and 
+even my Type.java got some wrong. This is really a tough start but I still 
+make it. 
+
+   Problem 2 (Operators): I got the experience from doing quesion 1, so this 
+one seems to be easier, though it still has much needs to be worked with, 
+because I have to read a lot of files which I made when doing project1. After 
+I figure out how to change the codegen, it should be quite easier. 
+   
+   Problem 3 (Conditional Expression): The analyze part here doesn't cost me 
+much time, but the codegen does. I feel I'm not really familiar with this so 
+it make me spent much time to look at the slides. 
+
+   Problem 4 (Switch Statement): It's so hard to do this, it spends me like 
+tons of time but still cannot figure out how to do this. 
+
+   Problem 5 (Do-While Statement): This one is the easiest, which we just 
+follow what the JWhileStatement and everything is done. 
+
+   Problem 6 (For Statement): I spent a bunch of time because I was stuck on
+the part where it gives me "cannot find name: i". I was stuck here for such 
+a long but still figure it out finally. 
+
+   Problem 7 (Break Statement): For break, I've tried my best to figure out 
+how to solve codegen, but after I put some labels in codegen, it still doesn't 
+give me correct output. I think I just have one more step left but still can't
+figure out why. 
+
+   Problem 8 (Continue Statement): Cannot make it. It seems to have the same 
+label as BreakStatement, but it's so hard to figure out. 
+
+   Problem 9 (Exception Handlers):  Just got no time to figure out. 
+
+   Problem 10 (Interface Type Declaration): Doesn't make it, so hard and almost
+have no idea to fix this. 
+
+4. Did you receive help from anyone? List their names, status (classmate, 
+   CS451/651 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+5. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I think this homework should be the hardest question that we've got so far, 
+because the analyze and codegen part are both not easy. We have to consider
+the situaion such as how to jump, and how to give expectedType. It needs a lot
+of thinking. 

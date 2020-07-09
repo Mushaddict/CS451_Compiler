@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JCompilationUnit line="1">
+  <Source fileName="project3/tests/Operators.java"/>
+  <Imports>
+    <Import name="java.lang.System"/>
+  </Imports>
+  <TypeDeclarations>
+    <JClassDeclaration line="3" name="Operators" super="java.lang.Object">
+      <Modifiers>
+        <Modifier name="public"/>
+      </Modifiers>
+      <ClassBlock>
+        <JMethodDeclaration line="4" name="main" returnType="void">
+          <Modifiers>
+            <Modifier name="public"/>
+            <Modifier name="static"/>
+          </Modifiers>
+          <FormalParameters>
+            <JFormalParameter line="4" name="args" type="String[]"/>
+          </FormalParameters>
+          <Body>
+            <JBlock line="4">
+              <JStatementExpression line="5">
+                <JMessageExpression line="5" name="println">
+                  <Arguments>
+                    <Argument>
+                      <JBinaryExpression line="5" type="" operator="&amp;&amp;">
+                        <Lhs>
+                          <JUnaryExpression line="5" type="" operator="!">
+                            <Operand>
+                              <JLiteralTrue line="5" type=""/>
+                            </Operand>
+                          </JUnaryExpression>
+                        </Lhs>
+                        <Rhs>
+                          <JLiteralFalse line="5" type=""/>
+                        </Rhs>
+                      </JBinaryExpression>
+                    </Argument>
+                  </Arguments>
+                </JMessageExpression>
+              </JStatementExpression>
+              <JStatementExpression line="6">
+                <JMessageExpression line="6" name="println">
+                  <Arguments>
+                    <Argument>
+                      <JLiteralTrue line="6" type=""/>
+                    </Argument>
+                  </Arguments>
+                </JMessageExpression>
+              </JStatementExpression>
+              <JVariableDeclaration>
+                <Modifiers>
+                </Modifiers>
+                <VariableDeclarators>
+                  <JVariableDeclarator line="7" name="x" type="int">
+                    <Initializer>
+                      <JLiteralInt line="7" type="" value="42"/>
+                    </Initializer>
+                  </JVariableDeclarator>
+                </VariableDeclarators>
+              </JVariableDeclaration>
+              <JStatementExpression line="8">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="9">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="10">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="11">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="12">
+                <JMessageExpression line="12" name="println">
+                  <Arguments>
+                    <Argument>
+                      <JVariable name="x"/>
+                    </Argument>
+                  </Arguments>
+                </JMessageExpression>
+              </JStatementExpression>
+              <JStatementExpression line="13">
+                <JMessageExpression line="13" name="println">
+                  <Arguments>
+                    <Argument>
+                      <JUnaryExpression line="13" type="" operator="post--">
+                        <Operand>
+                          <JWildExpression line="13"/>
+                        </Operand>
+                      </JUnaryExpression>
+                    </Argument>
+                  </Arguments>
+                </JMessageExpression>
+              </JStatementExpression>
+              <JStatementExpression line="14">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="15">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="16">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="17">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="18">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="19">
+                <JVariable name="x"/>
+              </JStatementExpression>
+              <JStatementExpression line="20">
+                <JMessageExpression line="20" name="println">
+                  <Arguments>
+                    <Argument>
+                      <JVariable name="x"/>
+                    </Argument>
+                  </Arguments>
+                </JMessageExpression>
+              </JStatementExpression>
+              <JStatementExpression line="21">
+                <JMessageExpression line="21" name="println">
+                  <Arguments>
+                    <Argument>
+                      <JVariable name="x"/>
+                    </Argument>
+                  </Arguments>
+                </JMessageExpression>
+              </JStatementExpression>
+            </JBlock>
+          </Body>
+        </JMethodDeclaration>
+      </ClassBlock>
+    </JClassDeclaration>
+  </TypeDeclarations>
+</JCompilationUnit>

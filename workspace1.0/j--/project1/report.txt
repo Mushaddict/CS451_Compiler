@@ -1,0 +1,70 @@
+1. Enter the number of hours it took you to complete the project between
+   the <<< and >>> signs below (eg, <<<10>>>).
+
+   <<<~17>>>, couple days separated
+   
+2. Enter the difficulty level (1: very easy; 5: very difficult) of the project
+   between the <<< and >>> signs below (eg, <<<3>>>).
+
+   <<<3 >>>
+
+3. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Using CLEmitter): 
+    I didnt make it for question 1 because I've had a hard time doing it. 
+    
+
+   Problem 2 (Division Operation): 
+    This one is simple. I just follow all the steps from the slides, 
+    then everything just built up automatically. This one is not quite 
+    difficult. 
+
+   Problem 3 (Remainder Operation): 
+    This one is similar to Question 2. It has all the same structure, where
+    I just use the same structure as question 2 as from slide to build it up. 
+    After than I just change the Scanner and Parser, and then everything is 
+    good. 
+
+   Problem 4 (Shift Operation): 
+    I was stuck on this problem for most of the time. At first, I had an idea
+    of how to build up the shift operation in scanner. However, every time
+    when I try to compile it, the compiler tells me << found where ) sought. 
+    It takes me a couple of while to understand what the Appendix means, 
+    later then I was able to fix the shiftExpression and relationalExpression. 
+
+   Problem 5 (Bitwise Operations): 
+    Problem 5 can be separated as 2 parts. First is the BitwiseNot in 
+    unaryExpression. I've searched a lot of things online to find the opcode
+    for NOT, where finally I just realize that the opcode was about to add 
+    a CONST_M1 and a IXOR. This spent me tons of time till the idea just came
+    up accidentally. 
+    The second part is the same thing as to fix the level of each expression. 
+    This is with question 4 which spends me tons of time to realize all of this.
+    Structing it is really hard. 
+
+   Problem 6 (Unary Plus Operation): 
+    This one is simple, and I just build it simply with the code in 
+    JUnaryExpression.java. and modify something in scanner and parser and 
+    everthing just done. 
+
+4. Did you receive help from anyone? List their names, status (classmate, 
+   CS451/651 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+5. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I should say the homework overall is not that hard, except for the first one, 
+    which I was not able to build anything about it. For the rest of the part, 
+    to understand the level of each expression cost me a lot of time, because 
+    at first I didn't realize that is a parser problem. I was thinking that is 
+    the scanner problem. Then I looked upon on piazza to see where the problem
+    comes from. 
+    It also spent me huge amout of time to find the opcode for each symbol. 
+    The problems are okay. but I still think I need more time. 
